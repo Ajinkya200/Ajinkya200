@@ -1,6 +1,4 @@
 Hi, I’m @Ajinkya200
-I’m interested in every technology.
-I’m currently learning ML and DSA.
 How to reach me , email- ajinkyagalegave11@gmail.com
 
 <!---
